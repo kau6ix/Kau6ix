@@ -32,18 +32,23 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kau6ix&" alt="kau6ix" /></p>--->
 
 
-# 📊 GitHub Stats:
+<!---# 📊 GitHub Stats:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kau6ix&theme=bear&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kau6ix&theme=bear&hide_border=false&include_all_commits=false&count_private=true" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kau6ix&theme=bear&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kau6ix&theme=bear&hide_border=false" /></p>--->
 
 <!---# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kau6ix&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kau6ix&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kau6ix&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact) --->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kau6ix&theme=bear&hide_border=false&include_all_commits=false&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kau6ix&theme=bear&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kau6ix&theme=bear&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
