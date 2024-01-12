@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kau6ix&label=Profile%20views&color=0e75b6&style=flat" alt="kau6ix" /> </p>
 
-- 🌱 I’m currently learning **involve more into technologies and life 😄**
+- 🌱 I’m currently learning **more about technologies and life 😄**
 
 - 💬 Ask me about **Java, HTML, CSS, Spring**
 
