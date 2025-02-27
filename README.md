@@ -5,7 +5,7 @@
   Hey there! I'm <span style="color:#00BFFF;">Kaushik Pal</span>  
 </h1>  -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Kaushik Pal" />
+  <img src="https://github.com/kau6ix/Kaushik-Domain/blob/main/name.svg" alt="Kaushik Pal" />
 </h1>
 
 <p align="center">
