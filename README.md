@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me  
 
-### **🚀 Software Developer | 6.2+ Years of Experience**
+### **🚀 Software Developer |
 - 💻 **Experienced in Java, Spring Boot, and Microservices**
 - 🔥 **Passionate about building scalable, high-performance backend systems**
 - 🎯 **Currently mastering System Design & Architecture**
