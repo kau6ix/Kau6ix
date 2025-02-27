@@ -97,6 +97,13 @@
 <!--⭐ **Feel free to explore my repositories, collaborate, and connect!** 🚀  -->
 
 <p align="center">Made with ❤️ in India</p>
+
+<div align="center">
+</br>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+</div>
+
 <p align="center">⭐ Feel free to explore my repositories, collaborate, and connect! 🚀</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
