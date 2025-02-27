@@ -1,9 +1,12 @@
 ![logo](https://github.com/kau6ix/Kaushik-Domain/blob/main/kau6ix_github_banner.png)
 <!-- Heading with Animation -->
-<h1 align="center">  
+<!--<h1 align="center">  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
   Hey there! I'm <span style="color:#00BFFF;">Kaushik Pal</span>  
-</h1>  
+</h1>  -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Kaushik Pal" />
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Framework+Expert;Full-Stack+Tech+Enthusiast;Problem+Solver+%26+Open+Source+Contributor" alt="Typing SVG" />
