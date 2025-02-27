@@ -2,7 +2,7 @@
 # 💻 Kaushik Pal | Java Backend Developer
 
 ### 🚀 About Me  
-Hi there! I'm **Kaushik Pal**, a passionate **Java Backend Developer** with **6.2 years** of experience in designing, developing, and deploying scalable applications. I specialize in **Spring Framework, Microservices, and RESTful APIs** with expertise in both **backend and frontend technologies**.  
+Hi there! I'm **Kaushik Pal**, a passionate **Java Backend Developer**.
 
 I love writing clean, efficient, and maintainable code while continuously learning and exploring new technologies. 🚀  
 
