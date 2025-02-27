@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Framework+Expert;Full-Stack+Tech+Enthusiast;Problem+Solver+%26+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
 ---
@@ -17,6 +18,7 @@
 ## 🧑‍💻 About Me  
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Software Developer |
+- :computer: **Experienced Backend Developer with a keen interest in full-stack technologies and end-to-end application development.**
 - 🔥 **Passionate about building scalable, high-performance backend systems**
 - 💡 **Love open-source contributions and technical writing**
 
