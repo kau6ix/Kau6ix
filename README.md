@@ -97,6 +97,7 @@
 <!--⭐ **Feel free to explore my repositories, collaborate, and connect!** 🚀  -->
 
 <p align="center">Made with ❤️ in India</p>
+<p align="center">⭐ Feel free to explore my repositories, collaborate, and connect! 🚀</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
