@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+<!--## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaushikpal&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
@@ -63,7 +63,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikpal&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+</p>-->
 
 ---
 
